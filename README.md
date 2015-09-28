@@ -1,5 +1,5 @@
 # training
-## 2015年09月28号 作业
+## 2015年09月28号 作业 （截止日期：北京时间2015年09月30日6点）
 - 目标：git的初级使用
  - 掌握基本命令：clone，pull， push， commit，stash，branch，add
 - 作业
