@@ -1,4 +1,4 @@
-# Javascipt学习(1)
+# JavaScript学习(1)
 ## 学习资源
 - [mozilla js教程](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)，需要学习*快速入门*和*中级教程*
 - [慕课网](http://www.imooc.com/learn/277)国内的视频比较少
