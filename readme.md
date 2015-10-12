@@ -6,3 +6,4 @@
 - 执行`sudo ./install.sh`安装所需软件
 - 为github配置ssh，参见[文档](https://help.github.com/articles/generating-ssh-keys/)
 - 完成*会议总结*中要求的
+- **当夜00：00前简聊发布Daily报告，格式参考Daily话题中已发布的**
