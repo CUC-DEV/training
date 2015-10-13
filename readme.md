@@ -19,7 +19,8 @@
 5. 安装mocha框架，`npm install -g mocha`
 6. 在项目目录下打开terminal，执行`mocha`，观察输出。正常情况下，所有测试通过并绿色标记。
 7. 学习[mocha](http://mochajs.org)测试框架
-8. - 补充test目录的task1-test.js里面的单元测试（已被TODO标记），再运行`mocha`直到所有测试通过
+8. 
+ - 补充test目录的task1-test.js里面的单元测试（已被TODO标记），再运行`mocha`直到所有测试通过
  - 按照task1-example.js导出(exports)自己的task1.js中的函数。在task1-test.js引入自己的task1.js，运行测试，修改bug直至所有测试通过
 9. 学习task1的单元测试，在test目录下新建task2-test.js和task3-test.js并完成相应的单元测试
 10. 学习编辑器code, 如有疑惑，请提交
