@@ -4,7 +4,7 @@
 - 在虚拟机中进入Document目录，虚拟机中浏览器打github此页面，拷贝后面出现的命令。 与Document右键打开terminal执行`wget https://raw.githubusercontent.com/CUC-DEV/training/master/install.sh`下载此文件。
 - 执行`sudo chmod +x install.sh`，给此脚本添加执行权限
 - 执行`./install.sh`安装所需软件
-- 关闭terminal，再打开terminal执行`nvm install 4.1.2`
+- 关闭terminal，再打开termina（不必重启）执行`nvm install 4.1.2`
 - 为github配置ssh，参见[文档](https://help.github.com/articles/generating-ssh-keys/)
 - 完成*会议总结*中要求的
 - **当夜00：00前简聊发布Daily报告，格式参考Daily话题中已发布的**
