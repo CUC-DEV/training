@@ -13,11 +13,11 @@ describe('#sumInt', function () {
         });
 
         it('should return 0 when passing empty string', function () {
-            //TODO: add assertion
+            assert.equal(0, sum.sumInt("")); //TODO: add assertion
         });
 
         it('should return undefined when passing undefined', function () {
-            //TODO: add assertion
+            assert.equal(undefined, sum.sumInt(undefined));//TODO: add assertion
         });
     });
 });
