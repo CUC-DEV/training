@@ -19,6 +19,7 @@
 1. 务必先配置开发环境，在terminal中执行`node -v`，如有输出如`v4.1.2`，则配置成功
 2. 阅读并实践[Git-分支-分支的新建与合并](http://git-scm.com/book/zh/v2/Git-分支-分支的新建与合并)
 3. 切换项目到master分支 `git checkout master`；更新项目`git pull origin master`
+4. 跟踪自己的分支`git checkout --track origin/xxx`
 4. 切换项目到自己的分支 `git checkout xxx`;合并master分支到自己分支`git merge master`,如有冲突参考教程
 5. 安装mocha框架，`npm install -g mocha`
 6. 在项目目录下打开terminal，执行`mocha`，观察输出。正常情况下，所有测试通过并绿色标记。
