@@ -21,12 +21,16 @@
 3. `git fetch`抓取最新的代码
 3. 切换项目到master分支 `git checkout master`；更新项目`git pull origin master`
 4. 跟踪自己的分支`git checkout --track origin/xxx`
-4. 切换项目到自己的分支 `git checkout xxx`;合并master分支到自己分支`git merge master`,如有冲突参考教程
-5. 安装mocha框架，`npm install -g mocha`
-6. 在项目目录下打开terminal，执行`mocha`，观察输出。正常情况下，所有测试通过并绿色标记。
-7. 学习[mocha](http://mochajs.org)测试框架
-8. 
+5. 切换项目到自己的分支 `git checkout xxx`;合并master分支到自己分支`git merge master`,如有冲突参考教程
+6. 安装mocha框架，`npm install -g mocha`
+7. 在项目目录下打开terminal，执行`mocha`，观察输出。正常情况下，所有测试通过并绿色标记。
+8. 学习[mocha](http://mochajs.org)测试框架
+9. 
  - 补充test目录的task1-test.js里面的单元测试（已被TODO标记），再运行`mocha`直到所有测试通过
  - 按照task1-example.js导出(exports)自己的task1.js中的函数。在task1-test.js引入自己的task1.js，运行测试，修改bug直至所有测试通过
 9. 学习task1的单元测试，在test目录下新建task2-test.js和task3-test.js并完成相应的单元测试
 10. 学习编辑器code, 如有疑惑，请提交
+
+# Git学习(北京时间2015年10月17日14点前)
+1. 仔细阅读并实践git中文教程[前三章](http://git-scm.com/book/zh/v2)
+2. 完成一个presentation介绍你了解的git和其主要的部分(20页以内)，完成ppt发送至mengyu.dev@outlook.com
