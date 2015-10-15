@@ -34,3 +34,4 @@
 # Git学习(北京时间2015年10月17日14点前)
 1. 仔细阅读并实践git中文教程[前三章](http://git-scm.com/book/zh/v2)
 2. 完成一个presentation介绍你了解的git和其主要的部分(20页以内)，完成ppt发送至mengyu.dev@outlook.com
+3. 例会随机邀请一名组员讲解自己的ppt(5分钟左右)
