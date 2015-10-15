@@ -5,7 +5,7 @@ var sum = require("../task1-example");
 describe('#sumInt', function () {
     describe('sum string num', function () {
         it('should return 15 when sum 1 to 5', function () {
-            assert.equal(16, sum.sumInt("1,2,3,4,5"));
+            assert.equal(15, sum.sumInt("1,2,3,4,5"));
         });
 
         it('should return NAN when non-number string is passing', function () {
