@@ -1,7 +1,8 @@
 'use strict'
 
 var assert = require("assert");
-var sum = require("../task1-example");
+var sum = require("../js-task-1.1.js");
+var output="";
 describe('#sumInt', function () {
     describe('sum string num', function () {
         it('should return 15 when sum 1 to 5', function () {
@@ -14,10 +15,12 @@ describe('#sumInt', function () {
 
         it('should return 0 when passing empty string', function () {
             //TODO: add assertion
+	    assert.equal(0,sum.sumInt==="");
         });
 
         it('should return undefined when passing undefined', function () {
             //TODO: add assertion
+	    assert.equal(output,typeof(sum.sumInt)=="undefined");
         });
     });
 });
