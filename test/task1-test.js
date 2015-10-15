@@ -20,7 +20,7 @@ describe('#sumInt', function () {
 
         it('should return undefined when passing undefined', function () {
             //TODO: add assertion
-	    assert.equal(output,typeof(sum.sumInt)=="undefined");
+	    assert.equal(undefined,sum.sumInt(undefined));
         });
     });
 });
