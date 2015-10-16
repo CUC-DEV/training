@@ -1,0 +1,398 @@
+[33mcommit b99896fb02f9633907cfaf623efdb805a6792db5[m
+Author: zengyan <zengyan03@outlook.com>
+Date:   Fri Oct 16 20:17:03 2015 +0800
+
+    ttt
+
+[33mcommit 91e3dd13d07365f7f55817a2b3f5f53b041988b6[m
+Author: zengyan <zengyan03@outlook.com>
+Date:   Fri Oct 16 20:09:02 2015 +0800
+
+    kkkkk
+
+[33mcommit 47c0156afd4ffa4f7dbe5b1c9bd454293076f2ee[m
+Author: zengyan <zengyan03@outlook.com>
+Date:   Fri Oct 16 19:49:25 2015 +0800
+
+    added new
+
+[33mcommit ccc8a5292adf9bfe9e3a99f4a83011e4d94437c9[m
+Author: zengyan <zengyan03@outlook.com>
+Date:   Fri Oct 16 19:34:20 2015 +0800
+
+    commit-new
+
+[33mcommit 60ea6424840dc282abc25cadbb3de436e3789279[m
+Author: zengyan <zengyan03@outlook.com>
+Date:   Fri Oct 16 19:28:30 2015 +0800
+
+    added new benchmarks
+
+[33mcommit 4cab7544a721ebe7178bc5e4d688bdb143a84657[m
+Author: zengyan <zengyan03@outlook.com>
+Date:   Fri Oct 16 16:38:03 2015 +0800
+
+    sdksd
+
+[33mcommit 41a84b1a56b837ea095864e9c1cc888aee625792[m
+Author: zengyan <zengyan03@outlook.com>
+Date:   Fri Oct 16 16:33:57 2015 +0800
+
+    hsjdhf
+
+[33mcommit f901f109306bee5ab9954c598b01bb3fb55c0f2d[m
+Author: zengyan <zengyan03@outlook.com>
+Date:   Wed Oct 14 21:01:02 2015 +0800
+
+    com
+
+[33mcommit cb9a97c46a9ea8e3a6b03473779fe635e7557774[m
+Merge: 33e5723 89ed2ec
+Author: zengyan <zengyan03@outlook.com>
+Date:   Wed Oct 14 19:53:59 2015 +0800
+
+    Merge branch 'master' into zengyan
+
+[33mcommit 33e5723cb47c850532f1c90a7f5978b5963e0668[m
+Author: zengyan <zengyan03@outlook.com>
+Date:   Wed Oct 14 19:50:11 2015 +0800
+
+    Rename test to test0
+
+[33mcommit 89ed2ecbd99b8848aeaca8750eee63a016a9ac4f[m
+Author: mengyu-dev <mengyu.dev@outlook.com>
+Date:   Wed Oct 14 13:44:31 2015 +0200
+
+    Update readme.md
+
+[33mcommit 8c97832c569232083f95a5cade53c2bcb7ac64d7[m
+Author: mengyu-dev <mengyu.dev@outlook.com>
+Date:   Wed Oct 14 13:38:16 2015 +0200
+
+    Update readme.md
+
+[33mcommit 18dc8b5875dc385ba2e49c03e151a77d7b05fac4[m
+Author: mengyu-dev <mengyu.dev@outlook.com>
+Date:   Wed Oct 14 11:14:32 2015 +0200
+
+    Update readme.md
+
+[33mcommit 0fe2daed86b54cfd87fbb021b892da0190b193cd[m
+Author: Mengyu <mengyu.dev@outlook.com>
+Date:   Tue Oct 13 23:30:40 2015 +0200
+
+    add task, package
+
+[33mcommit 390445fe22fdbe07239f2e3ab1bd9007d3c10882[m
+Author: Mengyu <mengyu.dev@outlook.com>
+Date:   Tue Oct 13 23:30:13 2015 +0200
+
+    none
+
+[33mcommit d3fa3b9029740822c61f70d3ef52dc22d20ae670[m
+Author: Mengyu <mengyu.dev@outlook.com>
+Date:   Tue Oct 13 23:28:33 2015 +0200
+
+    add gitignore
+
+[33mcommit d534d2560074b3f22e76d192cfdad8fcc6e668b4[m
+Author: Mengyu <mengyu.dev@outlook.com>
+Date:   Tue Oct 13 23:00:52 2015 +0200
+
+    none
+
+[33mcommit ce0e2d30f78cb9a7253e1ce5100b4fa0bb4ee1e4[m
+Author: Mengyu <mengyu.dev@outlook.com>
+Date:   Tue Oct 13 22:59:16 2015 +0200
+
+    none
+
+[33mcommit 6d7d527ae169a7443c98c7e252603343a0c83cb3[m
+Author: Mengyu <mengyu.dev@outlook.com>
+Date:   Tue Oct 13 21:52:18 2015 +0200
+
+    add item 10
+
+[33mcommit f209808bbf5d06fd88de744ec3329a8d1ce389f1[m
+Author: Mengyu <mengyu.dev@outlook.com>
+Date:   Tue Oct 13 21:51:02 2015 +0200
+
+    add git, js task2
+
+[33mcommit c8f3e20c5401745a4a30cf2612a68a01225c11a5[m
+Author: Mengyu <mengyu.dev@outlook.com>
+Date:   Tue Oct 13 20:36:58 2015 +0200
+
+    change readme
+
+[33mcommit 774404bc75028ffd734bde1ea0dd3e045397f37b[m
+Author: mengyu-dev <mengyu.dev@outlook.com>
+Date:   Tue Oct 13 20:12:00 2015 +0200
+
+    Update readme.md
+
+[33mcommit c056268d1607db132ac37ee7ae89b39df8db71dc[m
+Author: mengyu-dev <mengyu.dev@outlook.com>
+Date:   Tue Oct 13 20:07:33 2015 +0200
+
+    Update install.sh
+
+[33mcommit 345900e6648298a59b3feca56c673d75caa7d2da[m
+Author: mengyu-dev <mengyu.dev@outlook.com>
+Date:   Tue Oct 13 13:36:12 2015 +0200
+
+    Update install.sh
+    
+    remove sudo for zsh
+
+[33mcommit 59e04a51750fc0e22fd890c6e5be622eeafc709a[m
+Author: Mengyu <mengyu.dev@outlook.com>
+Date:   Tue Oct 13 00:00:11 2015 +0200
+
+    not sudo
+
+[33mcommit 5ff9d3d860ba0a0eba4d9f43e54534e06f81cf71[m
+Author: Mengyu <mengyu.dev@outlook.com>
+Date:   Mon Oct 12 23:47:38 2015 +0200
+
+    reload zshrc
+
+[33mcommit 60a20e4f594645bf4147ad42d4cfc0e24e05d8f7[m
+Author: Mengyu <mengyu.dev@outlook.com>
+Date:   Mon Oct 12 23:44:14 2015 +0200
+
+    change order, place oh-my-zsh in the end
+
+[33mcommit 68ace92cf3eac0b8068f0378d817298597ff6ffa[m
+Author: Mengyu <mengyu.dev@outlook.com>
+Date:   Mon Oct 12 23:40:40 2015 +0200
+
+    mdf
+
+[33mcommit 6ce57548facfc6cde3a2af6fb87524747b66ae43[m
+Author: Mengyu <mengyu.dev@outlook.com>
+Date:   Mon Oct 12 23:38:56 2015 +0200
+
+    add item daily
+
+[33mcommit 7cbeb7990da8cf1c61078476b81e5c59e9a0dc04[m
+Author: Mengyu <mengyu.dev@outlook.com>
+Date:   Mon Oct 12 23:36:49 2015 +0200
+
+    add ops task
+
+[33mcommit 4d6a5af7b1f99a034fb4c387560d05318f392c7f[m
+Author: Mengyu <mengyu.dev@outlook.com>
+Date:   Mon Oct 12 23:28:55 2015 +0200
+
+    add install.sh
+
+[33mcommit 953cbf30403ef30fb463fa26ead5697f761ea889[m
+Author: zengyan <352490353@qq.com>
+Date:   Sat Oct 10 14:43:13 2015 +0800
+
+    commit
+
+[33mcommit 24b853c085fbdaff8e6856e0132b7749f8e30a54[m
+Author: zengyan <352490353@qq.com>
+Date:   Sat Oct 10 14:42:33 2015 +0800
+
+    commit
+
+[33mcommit 0f0e72c86ab821222d62ef8afea55fb9472294c9[m
+Author: zengyan <352490353@qq.com>
+Date:   Sat Oct 10 14:34:07 2015 +0800
+
+    Create js-task-1.2
+
+[33mcommit 3af7fa208b169086ff9385c010f26b8c0cab8c53[m
+Author: zengyan <352490353@qq.com>
+Date:   Sat Oct 10 14:33:11 2015 +0800
+
+    Create js-task-1.1
+
+[33mcommit 2502a3aeda2ed2cc89b409a7932e5dee8b3e9e22[m
+Author: qiuzihe <htszdm@cuc.edu.cn>
+Date:   Thu Oct 8 13:33:54 2015 +0800
+
+    xiugai
+
+[33mcommit 0ddba53b31b6fed608127d3ea3d85d064909232e[m
+Merge: 72c7d54 be232b4
+Author: qiuzihe <htszdm@cuc.edu.cn>
+Date:   Thu Oct 8 13:23:28 2015 +0800
+
+    Merge branch 'master' of https://github.com/CUC-DEV/training
+
+[33mcommit 72c7d541ce3fedd02906220884824a0bfa5ed239[m
+Author: qiuzihe <htszdm@cuc.edu.cn>
+Date:   Thu Oct 8 13:19:11 2015 +0800
+
+    commit
+
+[33mcommit be232b4623b0994ce196ef937a782e54deecc91f[m
+Author: Mengyu <mengyu.dev@outlook.com>
+Date:   Tue Oct 6 22:08:49 2015 +0200
+
+    typo
+
+[33mcommit 49895ca0733b30cc7a03a0b406cf8170ff760408[m
+Author: Mengyu <mengyu.dev@outlook.com>
+Date:   Tue Oct 6 22:06:36 2015 +0200
+
+    none
+
+[33mcommit 408a64b3f8562510483e87b83963e3677f4bb98a[m
+Author: Mengyu <mengyu.dev@outlook.com>
+Date:   Tue Oct 6 22:05:26 2015 +0200
+
+    none
+
+[33mcommit 520609ea13417ee6a4d25fadfb532c24ab8097bb[m
+Author: Mengyu <mengyu.dev@outlook.com>
+Date:   Tue Oct 6 22:01:49 2015 +0200
+
+    style
+
+[33mcommit 1fed4027eeda431e0ffa30c31f985b784723c3a5[m
+Author: Mengyu <mengyu.dev@outlook.com>
+Date:   Tue Oct 6 22:00:50 2015 +0200
+
+    rename
+
+[33mcommit 943f2e9d40f70acc68ef886992529be68e44f44c[m
+Author: Mengyu <mengyu.dev@outlook.com>
+Date:   Tue Oct 6 22:00:08 2015 +0200
+
+    add js task
+
+[33mcommit 03eeaa0e7be54d3d9b6df1299bbcdc327bcbf872[m
+Author: zengyan <352490353@qq.com>
+Date:   Wed Sep 30 15:52:48 2015 +0800
+
+    Update test
+
+[33mcommit 9789e4ba3a104b26c53bf3587fcc93a6902b8918[m
+Author: zengyan <352490353@qq.com>
+Date:   Wed Sep 30 15:48:48 2015 +0800
+
+    Update test
+
+[33mcommit 9e48bde32704d6ead25b582debb1d9331fb1f139[m
+Author: zengyan <352490353@qq.com>
+Date:   Wed Sep 30 15:45:21 2015 +0800
+
+    test
+    
+    test
+
+[33mcommit 988cc17d470cc5fc89bcc2a004dc14f69871b822[m
+Author: QZHehe <htszdm@cuc.edu.cn>
+Date:   Wed Sep 30 13:09:51 2015 +0800
+
+    del
+
+[33mcommit 77e0faf25638903a5f80ec634ba8892643eecc05[m
+Author: QZHehe <htszdm@cuc.edu.cn>
+Date:   Wed Sep 30 12:20:30 2015 +0800
+
+    del
+
+[33mcommit 92e500c7dd7ec0e4c1d062c1976b5eff6277057b[m
+Merge: f242775 bde6aaa
+Author: QZHehe <htszdm@cuc.edu.cn>
+Date:   Wed Sep 30 12:17:27 2015 +0800
+
+    Merge branch 'qiuzihe' of https://github.com/CUC-DEV/training
+
+[33mcommit f242775bedd0be83b122afaa5810156d8993db35[m
+Author: QZHehe <htszdm@cuc.edu.cn>
+Date:   Wed Sep 30 11:45:58 2015 +0800
+
+    delete
+
+[33mcommit 92a689e1bc795553e6ead83c1485eb19d0c14e1d[m
+Merge: a195ecb 728f809
+Author: QZHehe <htszdm@cuc.edu.cn>
+Date:   Wed Sep 30 11:38:55 2015 +0800
+
+    Merge https://github.com/CUC-DEV/training
+
+[33mcommit a195ecb514d3401e14166408803fe4291c76b6fc[m
+Author: QZHehe <htszdm@cuc.edu.cn>
+Date:   Wed Sep 30 11:00:55 2015 +0800
+
+    resume.md
+
+[33mcommit bde6aaaeb9045ace8a7b4f31ee5afdf9e77e8c00[m
+Author: QQQ <htszdm@cuc.edu.cn>
+Date:   Tue Sep 29 11:35:12 2015 +0800
+
+    commit提交3
+
+[33mcommit 6adc35d076ee61a1fae8da03c2711b84e53796c5[m
+Author: QQQ <htszdm@cuc.edu.cn>
+Date:   Tue Sep 29 11:15:18 2015 +0800
+
+    coimmit提交2
+
+[33mcommit 9c1fffd2b466b36c7b7d79425fe34ad0bd58b46e[m
+Author: QQQ <htszdm@cuc.edu.cn>
+Date:   Tue Sep 29 11:13:26 2015 +0800
+
+    commit提交1
+
+[33mcommit a19cac4771bed599f3f93d1590bdc45173578a13[m
+Author: QQQ <htszdm@cuc.edu.cn>
+Date:   Tue Sep 29 11:07:18 2015 +0800
+
+    test
+
+[33mcommit 728f809d54418939aaa5525993bf2d5bd94e18b8[m
+Merge: 39646f7 8ba6e63
+Author: QQQ <htszdm@cuc.edu.cn>
+Date:   Tue Sep 29 09:55:24 2015 +0800
+
+    Merge branch 'master' of https://github.com/CUC-DEV/training
+
+[33mcommit 39646f7fab5be020f742cbbbc82fbe083646531c[m
+Author: QQQ <htszdm@cuc.edu.cn>
+Date:   Tue Sep 29 09:23:11 2015 +0800
+
+    first commit
+
+[33mcommit 8ba6e636e007e1259ccfe2261a3c6a601e76745b[m
+Author: Mengyu <mengyu.dev@outlook.com>
+Date:   Mon Sep 28 17:26:32 2015 +0200
+
+    改变git 命令顺序
+
+[33mcommit 93a21b94ed4eb038a2617bc0af0c47eb35849e16[m
+Author: Mengyu LIU <mengyu.liu@live.com>
+Date:   Mon Sep 28 16:16:05 2015 +0200
+
+    添加截止日期
+
+[33mcommit aa6010f7a7170ca98642d7a52bb9b98bb4761297[m
+Author: Mengyu LIU <mengyu.liu@live.com>
+Date:   Mon Sep 28 16:03:05 2015 +0200
+
+    详细说明
+
+[33mcommit a39df351c1b35006b98d0a3ef9d2e39903e6f11c[m
+Author: Mengyu LIU <mengyu.liu@live.com>
+Date:   Mon Sep 28 15:45:45 2015 +0200
+
+    修改格式
+
+[33mcommit a9516d7e3d007a9b29dab4ab03043c49890356e9[m
+Author: Mengyu LIU <mengyu.liu@live.com>
+Date:   Mon Sep 28 15:43:28 2015 +0200
+
+    添加作业
+
+[33mcommit be31d444665f94464a3d23209d9fa0b3bca7b778[m
+Author: mengyu-dev <mengyu.dev@outlook.com>
+Date:   Sat Sep 26 16:01:28 2015 +0200
+
+    Initial commit
