@@ -1,9 +1,16 @@
 // JavaScript Document
-
+function obsum(str2,str1){
 var i=0;
-
-var s=prompt("输入第一个数组，请以逗号隔开","");
-var q=prompt("输入第二个数组，请以逗号隔开","");
+if(str2==undefined)
+{
+	return undefined;
+}
+if(str1==undefined)
+{return undefined;}
+var s=("");
+var q=("");
+s=str2;
+q=str1;
 function shuzu(str)
 {var k=[];var a=[];var n=0;
 	for(i=0;i<str.length;i++)
@@ -48,4 +55,6 @@ for(i=0;i<maxlength;i++)
 {
 	d[i]=b[i]+c[i];
 }
-d;
+return d;
+}
+exports.obsum =obsum;
