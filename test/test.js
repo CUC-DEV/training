@@ -1,0 +1,37 @@
+'use strict'
+
+var assert = require("assert");
+var math = require("../math");
+describe('#math', function () {
+    describe('method of in complex', function () {
+        it('should return complex(1+0i) when parse 1,+1', function () {
+            var c = new math.Complex.of('1');
+            assert.equal(1, c.r);
+            assert.equal('1+0i', c.toString());
+            c = new math.Complex.of('+1');
+            assert.equal(1, c.r);
+            assert.equal('1+0i', c.toString());
+        });
+        
+        it('should return complex(1+2i) when parse 1+2i', function () {
+            var c = new math.Complex.of('1+2i');
+            assert.equal(1, c.r);
+            assert.equal(2, c.i);
+            assert.equal('1+2i', c.toString());
+        });
+        
+        it('should return complex(1-2i) when parse 1-2i', function () {
+            var c = new math.Complex.of('1-2i');
+            assert.equal(1, c.r);
+            assert.equal(-2, c.i);
+            assert.equal('1-2i', c.toString());
+        });
+        
+         it('should return complex(1-2i) when parse -2i+1', function () {
+            var c = new math.Complex.of('-2i+1');
+            assert.equal(1, c.r);
+            assert.equal(-2, c.i);
+            assert.equal('1-2i', c.toString());
+        });
+    });
+});
