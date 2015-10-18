@@ -34,6 +34,7 @@ function parseExpression(expression) {
 	switch(op){
 		case '+' : res = c1.add(c2).toString(); break;
 		case '-' : res = c1.substract(c2).toString();break;
-	}
+		case '*' : res = c1.multiplication(c2).toString();break;
+			}
 	return res;
 }
