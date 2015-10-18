@@ -18,6 +18,11 @@ Complex.prototype = {
 		this.i -= c.i;
 		return this;
 	},
+	mutiply: function(c){
+		this.r =((this.r*(c.r))-(this.i*(c.i)));
+		this.i= (this.r*(c.i))+(this.i*(c.r));
+		return this;	
+	},
 
 	toString: function () {
 		return "" + this.r + (this.i>=0?("+"+this.i):this.i) + "i";

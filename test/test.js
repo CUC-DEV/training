@@ -34,4 +34,14 @@ describe('#math', function () {
             assert.equal('1-2i', c.toString());
         });
     });
+	describe('multiply', function () {
+		it("should return complex(5) when parse 1+2i,*,1-2i",function(){
+			var c=new math.Complex.of("1+3i");
+			var c2=new math.Complex.of("1-2i");
+			var result =c.mutiply(c2);
+			assert.equal(7,result.r);
+			assert.equal(0,result.i);
+			assert.equal("5",result.toString());
+	});
+	 });
 });
